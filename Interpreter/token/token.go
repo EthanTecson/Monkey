@@ -1,3 +1,6 @@
+// Ethan Tecson
+// 2/8/2025
+
 package token
 
 type TokenType string
