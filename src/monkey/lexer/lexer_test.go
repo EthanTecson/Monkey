@@ -1,3 +1,6 @@
+// Ethan Tecson
+// 2/14/25
+
 package lexer
 
 import (

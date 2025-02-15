@@ -1,3 +1,6 @@
+// Ethan Tecson
+// 2/14/25 (Happy Valnetines Day)
+
 package lexer
 
 import "monkey/token"
