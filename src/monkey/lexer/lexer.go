@@ -2,6 +2,7 @@
 // 2/14/25 (Happy Valnetines Day)
 // * Additional Possible things you can add on
 // * 1. Adding line and column numbers
+// * 2. Making the parser better by looking at theory
 // ! Monkey does not work with floats, hex or ocatal notation
 
 package lexer
